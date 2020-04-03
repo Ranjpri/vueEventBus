@@ -1,5 +1,5 @@
 # vue-canvas
-
+Using an event bus to communicate between Components
 ## Project setup
 ```
 npm install
